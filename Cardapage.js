@@ -4,7 +4,7 @@ import airtel from '../assets/airtel.jpg'
 const items=[{src:'./airtel.jpg',
 altText:'slide 1',
 caption:'slide 1',
-header:'Slide  HEader',
+header:'Slide  Header',
 key:'1'},
 ]
 export default class Cardapage extends Component {
